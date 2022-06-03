@@ -10,5 +10,8 @@ POST /blogs/add<br />
 PUT /blogs/update<br />
 DELETE /blogs/delete<br />
 <br />
+Each routes doesn't expect any Json Data. Please Read the comments in app.js file to better understand what's going on.
+
+
 If you want the Whole website to be created please note, i wasn't sure what you guys expected so i completed the task in the shortest way possible.
 it would take me atleast a day to finish the task as i am busy with other personal work too.
