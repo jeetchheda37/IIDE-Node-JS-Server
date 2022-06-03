@@ -5,7 +5,7 @@ PLEASE NOTE:
 I have only created an API Server to be used via POSTMAN App.
 
 API Routes created:
-GET /blogs
+GET /blogs<br />
 POST /blogs/add
 PUT /blogs/update
 DELETE /blogs/delete
