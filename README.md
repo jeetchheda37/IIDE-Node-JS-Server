@@ -1,6 +1,6 @@
 # IIDE-Node-JS-Server
-This is just a temporary repo for IIDE to test my skills
-
+This is just a temporary repo for IIDE to test my skills <br />
+Website URL: http://ec2-13-127-238-42.ap-south-1.compute.amazonaws.com:3000/blogs <br />
 PLEASE NOTE:
 I have only created an API Server to be used via POSTMAN App.
 
